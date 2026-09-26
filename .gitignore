@@ -1,0 +1,13 @@
+# Temporary Power BI files
+*.pbit
+~$*.pbix
+
+# VS Code settings
+.vscode/
+
+# Temporary/system files
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
