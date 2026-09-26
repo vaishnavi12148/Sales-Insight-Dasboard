@@ -2,7 +2,8 @@
 
 An interactive sales analytics dashboard built in **Microsoft Power BI** to analyze sales performance across time, markets, zones, products, and customers.
 
-**Project note:** This project was built as a learning/portfolio project following and extending the structure of a Codebasics Power BI beginner tutorial. The dashboard, data preparation, cleaning steps, currency normalization, measures, and documentation shown here reflect my implementation and learning work.
+<p><strong>Project note:</strong> This project was built as a learning/portfolio project following and extending the structure of a Codebasics Power BI beginner tutorial. The dashboard, data preparation, cleaning steps, currency normalization, measures, and documentation shown here reflect my implementation and learning work.</p>
+
 ---
 
 ## 🖼️ Dashboard Preview
