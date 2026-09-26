@@ -142,8 +142,7 @@ sales-insight-dashboard/
 │   └── Sales_Insight_Dashboard.pbix
 ├── screenshots/
 │   └── dashboard.png
-└── docs/
-    └── data_cleaning_and_measures.md
+└── .gitignore
 ```
  
 ---
@@ -159,3 +158,6 @@ sales-insight-dashboard/
  
 *Built as a hands-on extension of a Codebasics Power BI tutorial — the data preparation, cleaning logic, currency normalization, and measures reflect my own implementation and learning process.*
  
+ ## 👤 Author
+
+Vaishnavi Phadatare
